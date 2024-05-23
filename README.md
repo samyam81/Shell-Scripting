@@ -25,6 +25,12 @@ This Bash script provides a simple calculator, a password generator, and a digit
 1. Run the script using `bash digital_watch.sh`.
 2. The current time will be continuously displayed in blue text.
 
+### Kick Start-Your-Day
+
+1. Run the script using `StartTheDay.sh`.
+2. This will kick start your day.
+3. Change the link if needed.
+
 ## Example
 
 ### Calculator
@@ -57,8 +63,15 @@ $ bash digital_watch.sh
 12:34:56
 ```
 
+### Start Your day
+```
+$ bash StartTheDay.sh
+
+```
+
 ## Note
 
 - For the calculator, only integer numbers are supported.
 - For the password generator, the password length should be specified in integers. For secure passwords, consider using longer lengths.
 - The digital watch continuously displays the current time in blue text.
+- Hey! KickStart your day in style.
